@@ -6,5 +6,4 @@ public class Variable {
 		age = 30;
 		System.out.println(age);
 	}
-
 }
