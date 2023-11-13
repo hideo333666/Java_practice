@@ -6,7 +6,8 @@ public class Foundation {
 	public static void main(String[] args) {
 		Random rand = new Random();
 		int number = rand.nextInt(100); // 0から99までのランダムな数を生成
-		boolean isPrime = isPrime(number);
+		boolean isPrime 
+		= isPrime(number);
 		System.out.println("Is" + number + " a prime number?" + isPrime);
 	}
 	
