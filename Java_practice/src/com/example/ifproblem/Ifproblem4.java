@@ -2,10 +2,11 @@ package com.example.ifproblem;
 
 public class Ifproblem4 {
 	public static void main(String[] args) {
-		int age = 15;
+		String signal = "red"; //ここに判定したい信号の色を入力
 		
-		if(age >= 17) {
-			System.out.println
+		if(signal.equals("red")) {
+			
 		}
+		
 	}
 }
