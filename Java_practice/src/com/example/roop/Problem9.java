@@ -6,7 +6,7 @@ public class Problem9 {
 		
 		while (i <= 5) {
 			System.out.println(i); // 現在の数字を出力
-			i++; //数字を1増やす
+				i++; //数字を1増やす
 		}
 	}
 }
